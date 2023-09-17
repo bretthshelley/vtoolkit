@@ -1,6 +1,6 @@
 
 
-# vtoolkit (circa 2004)
+# Vadosity Toolkit (version 2) (circa 2004)
 Java Swing app with 438 java classes built by Brett Shelley in 2004-ish. The app links photos to maps and diagrams - years before google streetview.  
 
 <img src="./screenshot.png"></img>
